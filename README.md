@@ -21,5 +21,5 @@ Hokkaido Univ.& Hitachi 1st New-concept Computing Contest 2017 のビジュア�
 
 ### 結果をgifアニメで保存する
 - saveボタンを押すと、saveディレクトリに実行結果をcanvas_anime.gifというファイル名で保存します。
-    -- psファイルからgifへの変換にconvertコマンドを利用しているので、Shellでconvertコマンドを利用できるようにしておいてください。
-        --- もっといいやり方を知っている人がいたら教えてください。
+    - psファイルからgifへの変換にconvertコマンドを利用しているので、Shellでconvertコマンドを利用できるようにしておいてください。
+        - もっといいやり方を知っている人がいたら教えてください。
